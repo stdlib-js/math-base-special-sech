@@ -34,6 +34,8 @@ This release closes the following issue:
 
 <details>
 
+-   [`632aa60`](https://github.com/stdlib-js/stdlib/commit/632aa60921ee23f6650026153c290b536e88aa07) - **docs:** fix copy & paste errors _(by Philipp Burckhardt)_
+-   [`5e5d583`](https://github.com/stdlib-js/stdlib/commit/5e5d583a5acece114b8e4f59d49aabd112eb2312) - **style:** remove leading spaces from JSDoc comment _(by Philipp Burckhardt)_
 -   [`f17f40a`](https://github.com/stdlib-js/stdlib/commit/f17f40aedbdfc363ea7e21bc3e2c9bf3eab00d0c) - **feat:** add `math/base/special/sech` [(#1716)](https://github.com/stdlib-js/stdlib/pull/1716) _(by Mihir Pandit, stdlib-bot, Gunj Joshi, Karan Anand)_
 
 </details>
@@ -46,11 +48,12 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
 -   Gunj Joshi
 -   Karan Anand
 -   Mihir Pandit
+-   Philipp Burckhardt
 
 </section>
 

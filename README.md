@@ -33,7 +33,7 @@ limitations under the License.
 
 [![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] <!-- [![dependencies][dependencies-image]][dependencies-url] -->
 
-> Compute the [hyperbolic cosecant][hyperbolic-functions] of a double-precision floating-point number.
+> Compute the [hyperbolic secant][hyperbolic-functions] of a double-precision floating-point number.
 
 <section class="installation">
 
@@ -65,7 +65,7 @@ var sech = require( '@stdlib/math-base-special-sech' );
 
 #### sech( x )
 
-Computes the [hyperbolic cosecant][hyperbolic-functions] of a double-precision floating-point number.
+Computes the [hyperbolic secant][hyperbolic-functions] of a double-precision floating-point number.
 
 ```javascript
 var v = sech( 0.0 );
@@ -136,7 +136,7 @@ logEachMap( 'sech(%0.4f) = %0.4f', x, sech );
 
 #### stdlib_base_sech( x )
 
-Computes the [hyperbolic cosecant][hyperbolic-functions] of double-precision floating-point number.
+Computes the [hyperbolic secant][hyperbolic-functions] of double-precision floating-point number.
 
 ```c
 double out = stdlib_base_sech( 2.0 );
