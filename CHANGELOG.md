@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-11-03)
+## Unreleased (2025-11-09)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`a9fb57e`](https://github.com/stdlib-js/stdlib/commit/a9fb57ec46973d10d247dfbe68d0b11a24970688) - **docs:** update descriptions _(by Philipp Burckhardt)_
 -   [`4fc251b`](https://github.com/stdlib-js/stdlib/commit/4fc251b7a6e4e1adcac7faf6828dcb171fd51be2) - **chore:** add structured package data for `math/base/special/sech` [(#8351)](https://github.com/stdlib-js/stdlib/pull/8351) _(by Manvith M)_
 -   [`632aa60`](https://github.com/stdlib-js/stdlib/commit/632aa60921ee23f6650026153c290b536e88aa07) - **docs:** fix copy & paste errors _(by Philipp Burckhardt)_
 -   [`5e5d583`](https://github.com/stdlib-js/stdlib/commit/5e5d583a5acece114b8e4f59d49aabd112eb2312) - **style:** remove leading spaces from JSDoc comment _(by Philipp Burckhardt)_
