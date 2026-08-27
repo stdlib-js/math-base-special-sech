@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-08-01)
+## Unreleased (2026-08-27)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`6989982`](https://github.com/stdlib-js/stdlib/commit/69899821b975f745bd5d69d01829cb52cd818ac9) - **docs:** add equations [(#14685)](https://github.com/stdlib-js/stdlib/pull/14685) _(by Karan Anand)_
 -   [`7cf37f7`](https://github.com/stdlib-js/stdlib/commit/7cf37f79b1bd737e102923b4f88187df0ebac5ff) - **test:** migrate `math/base/special/sech` to ULP-based testing [(#13843)](https://github.com/stdlib-js/stdlib/pull/13843) _(by Ujjwal Verma)_
 -   [`39c4de7`](https://github.com/stdlib-js/stdlib/commit/39c4de75a25292c00909cda17a7cb055113e608e) - **bench:** refactor to use string interpolation in `math/base/special` [(#11390)](https://github.com/stdlib-js/stdlib/pull/11390) _(by Karan Anand)_
 -   [`e81a8c0`](https://github.com/stdlib-js/stdlib/commit/e81a8c0c8501d4bc3e3b3843a86476a2e088a9d6) - **docs:** fix C examples [(#11134)](https://github.com/stdlib-js/stdlib/pull/11134) _(by anee3)_
